@@ -1,0 +1,6 @@
+C:\Users\Krisztián\source\repos\Helsinki\Helsinki\bin\Debug\Helsinki.exe.config
+C:\Users\Krisztián\source\repos\Helsinki\Helsinki\bin\Debug\Helsinki.exe
+C:\Users\Krisztián\source\repos\Helsinki\Helsinki\bin\Debug\Helsinki.pdb
+C:\Users\Krisztián\source\repos\Helsinki\Helsinki\obj\Debug\Helsinki1952.csprojAssemblyReference.cache
+C:\Users\Krisztián\source\repos\Helsinki\Helsinki\obj\Debug\Helsinki.exe
+C:\Users\Krisztián\source\repos\Helsinki\Helsinki\obj\Debug\Helsinki.pdb
